@@ -20,6 +20,6 @@ O projeto foi inspirado no layout do canal [Bedim Code](https://www.youtube.com/
 - Estrutura modular de seções (Home, Sobre mim, Projetos, Contato)
 
 ---
-
 ## 🚀 Como Visualizar o Projeto
-[CLIQUE AQUI](https://github.com/Fillipegomesdev/Portfolio-responsivo)
+
+[Acesse o portfólio ao vivo](https://fillipegomesdev.github.io/Portfolio_responsivo/)
