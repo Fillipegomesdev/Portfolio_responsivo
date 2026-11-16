@@ -22,6 +22,4 @@ O projeto foi inspirado no layout do canal [Bedim Code](https://www.youtube.com/
 ---
 
 ## 🚀 Como Visualizar o Projeto
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/Fillipegomesdev/Portfolio-responsivo
+[CLIQUE AQUI](https://github.com/Fillipegomesdev/Portfolio-responsivo)
